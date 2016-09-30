@@ -1,0 +1,14 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer 
+isso?
+
+O git inclui os arquivos de configuração dentro da pasta em questão,
+para que o versionamento possa ser iniciado. a partir daí será possível
+adicionar commits aos arquivos.
+
+-----------------------------------------------------------------------
+Em que se difere a área de preparação do diretório de trabalho e do 
+repositório? Qual valor você acha que ela oferece?
+
+ela permite definir quais arquivos serão tracked em cada commit. Isso
+facilita na hora de verificar alterações, pois ele só irá mostrar nos
+arquivos que foram alterados.
