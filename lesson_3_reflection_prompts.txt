@@ -1,0 +1,7 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+Quando for necessário o envolvimento de um numero maior de pessoas em uma equipe por exemplo.
+Ou então para se manter um repositório na nuvem de um projeto, de forma que as alterações
+finais sejam enviadas e que você tenha tudo como um histórico. Dessa forma você poderia
+trabalhar nos seus arquivos localmente, e quando uma vers~~ao do aplicativo estiver pronta,
+essa versão é submetida para o repositório do github.
